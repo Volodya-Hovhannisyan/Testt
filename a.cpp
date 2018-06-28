@@ -10,17 +10,17 @@ int main()
 	}
 
 
+	if(Ijfirjef) kpjfjef
+		
 
-	gegwgergewhgheh
-		hwhrwhw
-		hrwthth
-		htewhtwh
-		htwh
-		hteh
-		th
-		th
-		te
-		htew
+
+
+	for(int i(0); i < n; ++i)
+	{
+		std::cout << "jdjdjdjdjdjdj" << std::endl;
+		
+	
+	}
 
 
 
